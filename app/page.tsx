@@ -300,9 +300,12 @@ export default function Home() {
               AI agent that answers recruiter questions, shares portfolio and CV, and schedules calls.
             </p>
 
-            <span className="text-gray-500">
-              Coming Soon
-            </span>
+            <a
+              href="https://ai-career-agent-ui.vercel.app/"
+              className="text-purple-400 hover:underline"
+            >
+              Live Demo →
+            </a>
 
           </div>
 
