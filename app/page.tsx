@@ -40,14 +40,14 @@ export default function Home() {
             Try Live AI Demo
           </a>
 
-          <a
-href="https://ai-career-agent-ui.vercel.app"
-target="_blank"
-rel="noopener noreferrer"
-className="px-6 py-3 bg-gradient-to-r from-purple-600 to-cyan-500 rounded-lg hover:opacity-90 transition"
->
-Talk to My AI Career Agent
-</a>
+          <a 
+          href="https://ai-career-agent-ui.vercel.app"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-6 py-3 bg-gradient-to-r from-purple-600 to-cyan-500 rounded-lg hover:opacity-90 transition"
+          >
+            Talk to My AI Career Agent
+          </a>
 
           <a
             href="https://github.com/Hillariaa"
