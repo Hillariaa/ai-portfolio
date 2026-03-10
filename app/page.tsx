@@ -354,7 +354,7 @@ export default function Home() {
           </a>
 
           <a
-            href="/Hilary_Azimoh_CV.pdf" 
+            href="/Hilary_Azimoh_AI_Engineer_CV.pdf" 
             target="_blank"
             className="px-6 py-3 bg-purple-600 hover:bg-purple-500 rounded-lg transition"
           >
